@@ -8,27 +8,27 @@ public class ArrayListProblems {
     public static void main(String[] args) {
         ArrayList<String> color = ArrayListProblems.createList();
 
-        /*ArrayListProblems.createList();
-        ArrayListProblems.addColor(color);
-        ArrayListProblems.iterateList(color);
-        ArrayListProblems.getIndex(color, 3);
-        ArrayListProblems.update(color, 3, "Green");
-        ArrayListProblems.delete(color, 4);
-        ArrayListProblems.search(color, "Green");
-        ArrayListProblems.sortList(color);
-        ArrayListProblems.copy(color);
-        ArrayListProblems.shuffleElements(color);
-        ArrayListProblems.reverse(color);
-        ArrayListProblems.extract(color, 0 , 4);
-        ArrayListProblems.compare(color);
-        ArrayListProblems.swapElements(color, 2, 3);
-        ArrayListProblems.join(color);
-        ArrayListProblems.clone(color);
-        ArrayListProblems.empty(color);
-        ArrayListProblems.isEmpty(color);
-        ArrayListProblems.trim(color);
-        ArrayListProblems.ensure(color);
-        ArrayListProblems.setElement(color, "Green", 2);*/
+        /*createList();
+        addColor(color);
+        iterateList(color);
+        getIndex(color, 3);
+        update(color, 3, "Green");
+        delete(color, 4);
+        search(color, "Green");
+        sortList(color);
+        copy(color);
+        shuffleElements(color);
+        reverse(color);
+        extract(color, 0 , 4);
+        compare(color);
+        swapElements(color, 2, 3);
+        join(color);
+        clone(color);
+        empty(color);
+        isEmpty(color);
+        trim(color);
+        ensure(color);
+        setElement(color, "Green", 2);*/
     }
 
     /*

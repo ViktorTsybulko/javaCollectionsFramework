@@ -6,16 +6,16 @@ public class HashSetProblems {
     public static void main(String[] args) {
         HashSet<String> color = HashSetProblems.createSet();
 
-        //HashSetProblems.iterate(color);
-        //HashSetProblems.count(color);
-        //HashSetProblems.clear(color);
-        //HashSetProblems.isEmpty(color);
-        //HashSetProblems.cloneSet(color);
-        //HashSetProblems.toArray(color);
-        //HashSetProblems.convertTreeSet(color);
-        //HashSetProblems.convertList(color);
-        //HashSetProblems.compare(color);
-        //HashSetProblems.retain(color);
+        /*iterate(color);
+        count(color);
+        clear(color);
+        isEmpty(color);
+        cloneSet(color);
+        toArray(color);
+        convertTreeSet(color);
+        convertList(color);
+        compare(color);
+        retain(color);*/
     }
 
     /*

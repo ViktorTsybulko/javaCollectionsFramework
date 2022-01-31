@@ -9,28 +9,28 @@ public class LinkedListProblems {
     public static void main(String[] args) {
         LinkedList<String> color = LinkedListProblems.createList();
 
-        //LinkedListProblems.iterateList(color);
-        //LinkedListProblems.iterateList(color, 2);
-        //LinkedListProblems.prevIterateList(color);
-        //LinkedListProblems.insert(color, 2, "Blue");
-        //LinkedListProblems.addFirstAndLast(color);
-        //LinkedListProblems.insertSomeElements(color, 3);
-        //LinkedListProblems.occurrence(color);
-        //LinkedListProblems.position(color);
-        //LinkedListProblems.removeElement(color, "White");
-        //LinkedListProblems.removeFirstAndLast(color);
-        //LinkedListProblems.clear(color);
-        //LinkedListProblems.swapElements(color, 2, 4);
-        //LinkedListProblems.shuffleElements(color);
-        //LinkedListProblems.joinList(color);
-        //LinkedListProblems.cloneList(color);
-        //LinkedListProblems.popElement(color);
-        //LinkedListProblems.firstElement(color);
-        //LinkedListProblems.lastElement(color);
-        //LinkedListProblems.check(color, "dsadsa");
-        //LinkedListProblems.toArrayList(color);
-        //LinkedListProblems.compare(color);
-        //LinkedListProblems.isEmpty(color);
+        /*iterateList(color);
+        iterateList(color, 2);
+        prevIterateList(color);
+        insert(color, 2, "Blue");
+        addFirstAndLast(color);
+        insertSomeElements(color, 3);
+        occurrence(color);
+        position(color);
+        removeElement(color, "White");
+        removeFirstAndLast(color);
+        clear(color);
+        swapElements(color, 2, 4);
+        shuffleElements(color);
+        joinList(color);
+        cloneList(color);
+        popElement(color);
+        firstElement(color);
+        lastElement(color);
+        check(color, "dsadsa");
+        toArrayList(color);
+        compare(color);
+        isEmpty(color);*/
     }
 
     /*
