@@ -10,11 +10,11 @@ public class TreeSetProblems {
         //reverse(color);
         //getLastFirst(color);
         //clone(color);
-        //lenght(color);
+        //length(color);
         //compare(color);
         //find(7);
         //getGreater(87);
-        //retvieve(color, "Green");
+        //retrieve(color, "Green");
 
     }
 
@@ -79,7 +79,7 @@ public class TreeSetProblems {
     /*
     * 6)  Write a Java program to get the number of elements in a tree set.
     * */
-    public static void lenght(TreeSet<String> color) {
+    public static void length(TreeSet<String> color) {
         System.out.println(color.size());
     }
 
@@ -149,7 +149,7 @@ public class TreeSetProblems {
     /*
     * 10) Write a Java program to retrieve and remove the first, last, given element of a tree set.
     * */
-    public static void retvieve(TreeSet<String> color, String s) {
+    public static void retrieve(TreeSet<String> color, String s) {
         System.out.println(color);
         color.pollFirst();
 
